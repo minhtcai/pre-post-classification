@@ -1,10 +1,10 @@
 # Pre- and post-purchase classification suing product questions 
 # Project Structure
 ## I.EAD
-&nbsp;### 1.Distribution Check
-&nbsp;### 2.Text Processing
-&nbsp;### 3.Text Checking for top 50 items
-&nbsp;### 4.Experiment & Preparetion
+* ### 1.Distribution Check
+### 2.Text Processing
+### 3.Text Checking for top 50 items
+### 4.Experiment & Preparetion
 #### a.TF-IDF
 #### b.BERT Embdedding
 #### c.Product Grouping
