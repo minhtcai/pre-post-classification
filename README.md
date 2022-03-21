@@ -17,5 +17,5 @@
 ## III.Deploying
 ###. 1.Database
 ###. 2.Model as API & UI
-###. 3.Analytics UI
+###. 3.Analytics UI  
 
